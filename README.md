@@ -1,7 +1,7 @@
 # TermBreakWebsite
 Build-Your-Own Web App
 
-** planning phase.**
+**planning phase.**
 1. Video Game: sale.
 2. Video Game: review.
 
