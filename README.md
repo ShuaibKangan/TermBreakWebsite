@@ -12,4 +12,4 @@ Build-Your-Own Web App
 - orange
 
 final thoughts!!!
-video game sale website with an orange colour scheme.
+**video game sale** website with an **orange** colour scheme.
